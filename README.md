@@ -1,1 +1,2 @@
-# Test_Scripts_Automation
+# Spustenie testovacej aplikácie
+Aplikácia nie je publikovaná, beží na lokálnej adrese. Je potrebné si ju stiahnuť z repozitára : https://github.com/ErikUrban28/VAII  . Na spusenie aplikácie treba mať nainštalovanú aplikáciu Docker. V zložke WatchFest/docker sa nachádza docker-compose.yml , pomocou ktorého sa vytvorí Docker container s názvom vaiicko_fw. Ten treba spustiť. Následne treba naimportovať databázu zo zložky WatchFest/docker/sql, súbor db.sql . Potom 
